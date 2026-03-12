@@ -24,7 +24,7 @@ I am passionate about software development and continuously improving my program
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge\&logo=rust)
+
 
 ---
 

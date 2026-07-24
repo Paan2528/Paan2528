@@ -1,4 +1,4 @@
-# Hi, I'm Paan 👋
+# Hi, I'm Janjira Yatoum 👋
 
 Software Engineering student at SAE Institute Hamburg, with a background in Renewable Energy Technology.  
 I build data tools and monitoring systems — mostly in Python, mostly around energy.

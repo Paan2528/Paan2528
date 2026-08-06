@@ -32,7 +32,7 @@ C++ coursework and exercises from SAE Institute Hamburg.
 ## Background
 
 - 🎓 B.Sc. Renewable Energy Technology — Maejo University, Thailand  
-- 🎓 B.Sc. Software Engineering (in progress) — SAE Institute Hamburg  
+- 🎓 B.Sc. Software Engineering (in progress) — SAE Institute Hamburg (validated by University of Hertfordshire) 
 - 🌍 Based in Hamburg, Germany  
 - 🌱 Interested in the intersection of clean energy and software
 

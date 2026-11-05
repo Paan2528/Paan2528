@@ -3,6 +3,8 @@
 Software Engineering student at SAE Institute Hamburg, with a background in Renewable Energy Technology.  
 I build data tools and monitoring systems — mostly in Python, mostly around energy.
 
+💼 Currently: Working Student at **Hoyer e-Concept GmbH** — Python for Energy AI & trading systems
+
 ---
 
 ## Projects
@@ -15,6 +17,9 @@ REST API for smart grid data management. FastAPI · SQLAlchemy · PostgreSQL · 
 
 **[Wind Turbine Monitoring Dashboard](https://github.com/Paan2528/Wind_Turbine_Monitoring_Dashboard)**  
 Dashboard for wind turbine performance monitoring. Python · in development
+
+**[Greenhouse Data Hub](https://github.com/Paan2528/Greenhose_Data_Hub)**  
+Data hub for a smart greenhouse — sensor data from Arduino to Raspberry Pi. Rust · Raspberry Pi · Arduino
 
 **[SAE Learning Journey](https://github.com/Paan2528/SAE-Learning-journey)**  
 C++ coursework and exercises from SAE Institute Hamburg.
@@ -38,4 +43,4 @@ C++ coursework and exercises from SAE Institute Hamburg.
 
 ---
 
-*Open to Werkstudent and internship opportunities in energy tech, data engineering, or backend development.*
+*Interested in energy tech, data engineering and backend development — feel free to reach out.*
